@@ -2,12 +2,6 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+dEditro;Computer+Engineering+Student;Cooking+Projects;%40dEditor">
 </p>
-<br>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-</p>
 
 ## Most Used Languages 📚
 <br>
