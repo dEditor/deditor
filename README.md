@@ -172,8 +172,3 @@
 
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
-
-------
-Credit : [chinmay29hub](https://github.com/chinmay29hub)
-
-Last Edited on : 20/12/2021
